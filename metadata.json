@@ -1,0 +1,7 @@
+{
+  "name": "My Darkest Valentine",
+  "description": "An interactive Valentine's experience featuring a heart-shaped photo gallery, provocative questions, and a playful UI where only 'Yes' is an option.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
